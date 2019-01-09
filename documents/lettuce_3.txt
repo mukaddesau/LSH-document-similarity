@@ -1,0 +1,21 @@
+Health officials have reported the first death in connection with a nationwide E. coli outbreak tied to romaine lettuce.
+
+The death occurred in a California patient, according to the Centers for Disease Control and Prevention (CDC). Overall, the outbreak has sickened 121 people in 25 states since mid-March, and 52 ill people have been hospitalized.
+
+But how exactly does E. coli kill?
+
+Although many types of E. coli are harmless, the strain involved in this outbreak — known as E. coli O157:H7 — is "not just an ordinary type of E. coli," said Dr. Amesh Adalja, a senior scholar at the Johns Hopkins University Center for Health Security. What's special about this strain, Adalja said, is that it produces a toxin known as Shiga toxin.  
+
+"That toxin is really what's responsible for the severity of illness that we're seeing" in the outbreak, Adalja told Live Science. [Top 7 Germs in Food That Make You Sick]
+
+The toxin destroys red blood cells, and these damaged blood cells can block the kidneys' filtering system, leading to a condition known as hemolytic uremic syndrome (HUS), according to the National Institute of Diabetes and Digestive and Kidney Diseases. Among the 52 people who have been hospitalized in the current outbreak, 14 developed HUS.
+
+HUS can lead to kidney failure, which itself can be fatal. However, people don't usually die from kidney failure anymore, because it can be treated with dialysis, Adalja said. (Dialysis is a treatment in which a machine takes over the role of the kidneys and filters waste from the blood.)
+
+Instead, most deaths associated with HUS result from other complications, such as bleeding problems (due to the toxin interfering with blood clotting), stroke or brain swelling, Adalja said. In addition, since an E. coli infection causes diarrhea, it can also cause a tear (perforation) in the colon, which allows fecal matter to leak into the body, and this could also be deadly, he said.
+
+In some cases, "what you end up having is multiple organ failure" due to the condition, which leads to death, Adalja said.
+
+Still, today, most patients survive HUS. In the 1950s, prior to dialysis, the death rate from HUS was around 40 percent, but now it's about 3 to 5 percent, Bill Marler, an attorney who specializes in foodborne-illness cases, wrote on his Marler Blog.
+
+The current outbreak is tied to romaine lettuce from Yuma, Arizona, although health officials have not pinpointed a particular grower, supplier, distributor or brand connected to the outbreak. Consumers are being advised not to eat or buy romaine lettuce, unless they can confirm that it is not from the Yuma area, the CDC said.
